@@ -61,5 +61,3 @@ STORE:  STA 2051H      ; Store HEX result
 <img width="1901" height="947" alt="Screenshot 2025-09-26 134736" src="https://github.com/user-attachments/assets/648159a1-7974-41bd-879b-27e5ede4afd3" />
 
 •	The hexadecimal equivalent of the ASCII input will be stored in memory location 4300H.
-## Result:
-The 8085 microprocessor successfully converts hexadecimal numbers to ASCII and vice versa, storing the results in memory.
